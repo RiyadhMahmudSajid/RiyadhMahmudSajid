@@ -5,19 +5,20 @@
 
 <!-- Name and Designation -->
 <h1 align="center">Hi 👋, I'm Riyadh Sajid</h1>
-<h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">Frontend Developer | Exploring the MERN Stack</h3>
 
----
+🧑‍💻 About Me
+I’m a passionate Frontend Web Developer who enjoys building responsive and user-friendly websites. I mainly work with React and Tailwind CSS, and I have a basic understanding of Express.js and MongoDB — enough to handle small backend tasks and integrate simple APIs.
 
-<!-- About Me -->
-## 🧑‍💻 About Me
+🎯 Currently focusing on Frontend development with React
 
-আমি একজন প্র্যাকটিসিং ওয়েব ডেভেলপার যিনি নিয়মিত নতুন টেকনোলজি নিয়ে কাজ করতে পছন্দ করি। আমি এখন MERN স্ট্যাক ব্যবহার করে বিভিন্ন প্রজেক্ট তৈরি করছি এবং নিজের স্কিল উন্নয়নে কাজ করছি।
+🌱 Exploring Next.js, Firebase Authentication, and REST API integration
 
-- 🔭 I’m currently working on a **Food Sharing App**
-- 🌱 I’m exploring **Next.js** and **Tailwind CSS**
-- 🚀 Planning to contribute to **Open Source Projects**
-- 📚 Learning about **JWT Authentication & MongoDB Aggregation**
+🧪 Learning to build small backend features using Express.js and MongoDB
+
+🚀 Working on a Food Sharing Web App
+
+💡 Interested in UI/UX design, animations, and clean component structures
 
 ---
 
