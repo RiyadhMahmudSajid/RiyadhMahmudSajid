@@ -11,7 +11,9 @@
 # 💫 About Me:
 I’m a passionate Frontend Web Developer who enjoys building responsive and user-friendly websites. I mainly work with React and Tailwind CSS, and I have a basic understanding of Express.js and MongoDB — enough to handle small backend tasks and integrate simple APIs.<br><br>🎯 Currently focusing on Frontend development with React<br><br>🌱 Exploring Next.js, Firebase Authentication, and REST API integration<br><br>🧪 Learning to build small backend features using Express.js and MongoDB<br><br>🚀 Working on a Food Sharing Web App<br><br>💡 Interested in UI/UX design, animations, and clean component structures
 
-🚧 Current Activities
+
+ 
+ #  🚧 Current Activities
 🚀 I’m working on a Food Sharing Web App using React, Tailwind CSS, and Firebase
 
 🌱 I’m currently exploring Next.js and JWT Authentication
@@ -60,12 +62,4 @@ I’m a passionate Frontend Web Developer who enjoys building responsive and use
 </p>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Riyadh Mahmud Sajid&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Riyadh Mahmud Sajid&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Riyadh Mahmud Sajid&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Riyadh Mahmud Sajid&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
