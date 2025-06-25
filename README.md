@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Riyadh Sajid</h1>
 <h3 align="center">Frontend Developer | Exploring the MERN Stack</h3>
 
-
 <!-- Banner Image -->
 <p align="center">
   <img src="https://i.ibb.co/b5yM3Tts/github-header-image.png" alt="Banner"  />
