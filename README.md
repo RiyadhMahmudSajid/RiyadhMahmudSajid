@@ -1,12 +1,13 @@
 
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://i.ibb.co/b5yM3Tts/github-header-image.png" alt="Banner" width="100%" />
-</p>
-
 <!-- Name and Designation -->
 <h1 align="center">Hi 👋, I'm Riyadh Sajid</h1>
 <h3 align="center">Frontend Developer | Exploring the MERN Stack</h3>
+
+
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://i.ibb.co/b5yM3Tts/github-header-image.png" alt="Banner"  />
+</p>
 
 # 💫 About Me:
 I’m a passionate Frontend Web Developer who enjoys building responsive and user-friendly websites. I mainly work with React and Tailwind CSS, and I have a basic understanding of Express.js and MongoDB — enough to handle small backend tasks and integrate simple APIs.<br><br>🎯 Currently focusing on Frontend development with React<br><br>🌱 Exploring Next.js, Firebase Authentication, and REST API integration<br><br>🧪 Learning to build small backend features using Express.js and MongoDB<br><br>🚀 Working on a Food Sharing Web App<br><br>💡 Interested in UI/UX design, animations, and clean component structures
