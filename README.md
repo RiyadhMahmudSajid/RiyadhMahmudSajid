@@ -1,7 +1,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-banner-image-url.com/banner.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co/b5yM3Tts/github-header-image.png" alt="Banner" width="100%" />
 </p>
 
 <!-- Name and Designation -->
